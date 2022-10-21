@@ -1,0 +1,21 @@
+{
+  "name": "from-leader-to-linker",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "rimraf dist && slidev build",
+    "export": "slidev export --dark --timeout 0 --output ./from-leader-to-linker.pdf",
+    "serve": "netlify dev"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.36.6",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/ri": "^1.1.3",
+    "playwright-chromium": "^1.27.1",
+    "netlify-cli": "^12.0.7",
+    "rimraf": "^3.0.2"
+  }
+}

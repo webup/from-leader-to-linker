@@ -1,0 +1,12 @@
+[build.environment]
+  NODE_VERSION = "14"
+  PLAYWRIGHT_BROWSERS_PATH = "0"
+
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

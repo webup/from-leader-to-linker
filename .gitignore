@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+dist
+
+.history
+.vscode
+
+*.local
+index.html
+.remote-assets
+components.d.ts
+
+# Local Netlify folder
+.netlify
