@@ -215,7 +215,7 @@ hideInToc: true
 
 <v-click>
 
-<br><img src="https://wx3.sinaimg.cn/orj480/7ca010d6ly1gkzjol0xgzj20u00gvtid.jpg" class="h-60" />
+<br><img src="https://s2.loli.net/2022/10/21/5Z3pdMne8flz6aT.jpg" class="h-60" />
 
 全局感需要真实的体感和碰撞。设置 CEO 特别助理岗、部门轮值主持人。
 
