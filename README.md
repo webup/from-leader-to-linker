@@ -1,11 +1,14 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 成为一个 Linker 的基本课程
 
-To start the slide show:
+> 从 “1/3 的哪吒” 成为一个 “三头六臂” 的管理者
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+在沟通中必备的三个底层能力：全局感、推动力、学习力
 
-Edit the [slides.md](./slides.md) to see the changes.
+基于底层能力的加持，如果面对不同的沟通场景：
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+- 破局者：开局沟通，建立领导权威
+- 促进者：向下沟通，带出优秀队伍
+- 整合者：横向沟通，协调跨部门资源
+- 承接者：向上沟通，赢得领导支持
+- 终结者：掌控谈判，达成更好合作
+- 代言者：对外沟通，成为有分量人
