@@ -1,6 +1,6 @@
 ---
 hideInToc: true
-download: 'https://github.com/webup/leader-to-linker/raw/main/from-leader-to-linker.pdf'
+download: 'https://github.com/webup/from-leader-to-linker/raw/master/from-leader-to-linker.pdf'
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
@@ -37,7 +37,7 @@ drawings:
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
-  <a href="https://github.com/webup/leader-to-linker/raw/main/from-leader-to-linker.pdf" target="_blank" alt="GitHub"
+  <a href="https://github.com/webup/from-leader-to-linker/raw/master/from-leader-to-linker.pdf" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-download />
   </a>
