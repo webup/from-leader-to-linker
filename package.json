@@ -5,17 +5,17 @@
     "dev": "slidev",
     "build": "rimraf dist && slidev build",
     "export": "slidev export --dark --timeout 0 --output ./from-leader-to-linker.pdf",
-    "serve": "netlify dev"
+    "serve": "npm run build && netlify dev"
   },
   "dependencies": {
-    "@slidev/cli": "^0.37.1",
+    "@slidev/cli": "^0.40.3",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
   "devDependencies": {
-    "@iconify-json/ri": "^1.1.4",
-    "netlify-cli": "^12.2.9",
-    "playwright-chromium": "^1.28.1",
-    "rimraf": "^3.0.2"
+    "@iconify-json/ri": "^1.1.5",
+    "netlify-cli": "^13.0.0",
+    "playwright-chromium": "^1.31.1",
+    "rimraf": "^4.1.2"
   }
 }
