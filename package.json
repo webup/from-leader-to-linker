@@ -8,14 +8,14 @@
     "serve": "npm run build && netlify dev"
   },
   "dependencies": {
-    "@slidev/cli": "^0.40.3",
+    "@slidev/cli": "^0.40.16",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
   "devDependencies": {
-    "@iconify-json/ri": "^1.1.5",
-    "netlify-cli": "^13.0.0",
-    "playwright-chromium": "^1.31.1",
-    "rimraf": "^4.1.2"
+    "@iconify-json/ri": "^1.1.8",
+    "netlify-cli": "^14.4.0",
+    "playwright-chromium": "^1.33.0",
+    "rimraf": "^5.0.0"
   }
 }
