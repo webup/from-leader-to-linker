@@ -6,7 +6,6 @@ dist
 .vscode
 
 *.local
-index.html
 .remote-assets
 components.d.ts
 
